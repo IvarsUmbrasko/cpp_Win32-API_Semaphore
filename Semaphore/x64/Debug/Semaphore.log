@@ -1,0 +1,11 @@
+﻿  Philosopher.cpp
+E:\dev\CppProjects\OS\Semaphore\Philosopher.cpp(6,9): warning C4068: unknown pragma 'package'
+  Semaphore.cpp
+E:\dev\CppProjects\OS\Semaphore\Semaphore.cpp(25,22): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+E:\dev\CppProjects\OS\Semaphore\Semaphore.cpp(25,22): warning C4302: 'type cast': truncation from 'void *' to 'int'
+E:\dev\CppProjects\OS\Semaphore\Semaphore.cpp(65,72): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+E:\dev\CppProjects\OS\Semaphore\Semaphore.cpp(175,20): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+E:\dev\CppProjects\OS\Semaphore\Semaphore.cpp(226,19): warning C4244: 'return': conversion from 'INT_PTR' to 'BOOL', possible loss of data
+E:\dev\CppProjects\OS\Semaphore\Semaphore.cpp(230,18): warning C4244: 'initializing': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating Code...
+  Semaphore.vcxproj -> E:\dev\CppProjects\OS\Semaphore\x64\Debug\Semaphore.exe
